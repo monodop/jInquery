@@ -82,3 +82,6 @@ jInquery.onLoaded(function(version, $) {
   console.log($.fn.query + ' was loaded!');
 });
 ```
+
+## Other notes
+Please don't use this in production. This is a joke.
